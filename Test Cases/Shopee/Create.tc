@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fff4cbca-9ae6-402d-ad7f-e9c73a92061a</testCaseGuid>
+   <variable>
+      <defaultValue>'benjamin.aulia88@gmail.com'</defaultValue>
+      <description></description>
+      <id>0de9394e-95a0-4a14-bb2f-3b63d70bab56</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jadian0612'</defaultValue>
+      <description></description>
+      <id>dede8038-18fd-4b42-a92b-f77c1a6df664</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
